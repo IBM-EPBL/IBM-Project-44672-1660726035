@@ -1,0 +1,19 @@
+Project Objective
+The system is proposed with these objectives:
+ Enable tracking of the child’s location and capturing of data remotely such as
+ To show the child's actual data with reference values.
+ Enable sending of notification if the child is out of location or when the device
+realizes abnormal conditions/situations.
+ To trigger the alarm and enable automatic video recording whenever the
+
+emergency button is pressed. Then, emergency notification along with real-
+time video will be sent to and display in the parents' mobile apps.
+
+ Develop a prototype of IoT wearable smart band connected to parents’ mobile
+apps so that they can monitor the actual condition of children at anytime and
+anyplace.
+ The GPS coordinates of the child will be sent to the IBM IoT platform
+ Location can be viewed in the Web Application
+ A parent can create a geofence in the web application
+ The web application will check if the child is inside or outside the geofence
+ Notifies the parents if the child goes out of the geofence
